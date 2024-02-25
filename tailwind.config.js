@@ -12,7 +12,7 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      customRed: '#BB2637',
+      brandGreen: colors.emerald[700],
       black: colors.black,
       white: colors.white,
       gray: colors.gray,
